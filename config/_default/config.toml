@@ -82,5 +82,7 @@ toLower = false
   [[related.indices]]
   name = "date"
   weight = 10
-
+[module]
+  [[module.imports]]
+    path = "github.com/powerfulweb/image-mod-hugo"
 
