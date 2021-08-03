@@ -1,0 +1,6 @@
+[submodule "assets/js/navbar-toggler"]
+	path = assets/js/navbar-toggler
+	url = https://github.com/powerfulweb/navbar-toggler
+[submodule "assets/js/contact-form-xhr"]
+	path = assets/js/contact-form-xhr
+	url = https://github.com/powerfulweb/contact-form-xhr
